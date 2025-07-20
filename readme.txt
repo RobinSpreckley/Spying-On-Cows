@@ -1,0 +1,1 @@
+Hi the data is not included for privacy reasons. If you want to see all the graphs for each cow feel free to contact me :)
