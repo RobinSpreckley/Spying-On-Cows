@@ -1,7 +1,5 @@
 # Spying-On-Cows 
-The project also aims to make an effective machine learning predictive model from a herd and cow perspective and explains what attributes are used in both.
- 
-This project implements databases, machine learning models, and Explainable artificial intelligence, to detect lameness effectively while showing how it classifies lameness. It looks at this problem from data of the individual cows and the herd data as a whole, to compare how these models predict lameness. It also sees how changes will affect both strategies.
+This project builds a machine learning pipeline to detect lameness in dairy cows using both individual and herd-level behavioral and health sensor data. It explores how changes in the modeling strategy (individual vs. herd) affect performance and interpretability, using Explainable AI techniques.
 
 ## 🎯 Project Overview
 
