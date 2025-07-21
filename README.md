@@ -53,7 +53,7 @@ Datauploading process, with JAVA uploaders found in this directory
 
 <p align="center">
   <img src="assets/aggregation and integration (2).png" alt="On-Orbit ML diagram" width="400"/>
-  <br>
+  <br>Figure: SQL-based weekly data aggregation and integration across all sources — joined on unique identifiers and time ranges
   <b>Figure:</b> placeholder
 </p>
 
@@ -61,7 +61,7 @@ Datauploading process, with JAVA uploaders found in this directory
 
 <p align="center">
   <img src="assets/splitdata.JPG" alt="On-Orbit ML diagram" width="400"/>
-  <br>
+  <br>Figure: Cow-level SMOTE oversampling — per-cow splits are oversampled and passed through individual grid search pipelines."what 
   <b>Figure:</b> placeholder
 </p>
 
