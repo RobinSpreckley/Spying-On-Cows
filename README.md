@@ -39,7 +39,7 @@ Modern dairy farms generate large volumes of behavioral and health data from ind
 Data
 <p align="center">
   <img src="assets/modelflow.JPG" alt="On-Orbit ML diagram" width="400"/>
-  <br>
+  <br>Figure: ML pipeline with preprocessing for numerical and categorical features, leading to a neural network classifier. Grid search used for F1-score optimization
   <b>Figure:</b>
 </p>
 
