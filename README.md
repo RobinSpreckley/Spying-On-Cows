@@ -60,9 +60,6 @@ Data
 
 Creation of Dataset pipeline, Sklearn, Pytorch, 
 
-
-# add XAI with a screen shot
-
 <p align="center">
   <img src="assets/pipeline.JPG" alt="On-Orbit ML diagram" width="400"/>
   <br>
