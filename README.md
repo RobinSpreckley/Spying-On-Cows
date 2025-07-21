@@ -47,7 +47,7 @@ Data
 <p align="center">
   <img src="assets/aggregation and integration (2).png" alt="On-Orbit ML diagram" width="400"/>
   <br>
-  <b>Figure:</b> Left – challenges with traditional satellite data collection; Right – benefits of On-Orbit processing using edge ML.
+  <b>Figure:</b> placeholder
 </p>
 
 ## ML Pipeline
@@ -55,7 +55,7 @@ Data
 <p align="center">
   <img src="assets/splitdata.JPG" alt="On-Orbit ML diagram" width="400"/>
   <br>
-  <b>Figure:</b> Left – challenges with traditional satellite data collection; Right – benefits of On-Orbit processing using edge ML.
+  <b>Figure:</b> placeholder
 </p>
 
 Creation of Dataset pipeline, Sklearn, Pytorch, 
@@ -63,12 +63,11 @@ Creation of Dataset pipeline, Sklearn, Pytorch,
 <p align="center">
   <img src="assets/pipeline.JPG" alt="On-Orbit ML diagram" width="400"/>
   <br>
-  <b>Figure:</b> Left – challenges with traditional satellite data collection; Right – benefits of On-Orbit processing using edge ML.
-</p>
+  <b>Figure:</b> 
 <p align="center">
   <img src="assets/modelflow.JPG" alt="On-Orbit ML diagram" width="400"/>
   <br>
-  <b>Figure:</b> Left – challenges with traditional satellite data collection; Right – benefits of On-Orbit processing using edge ML.
+  <b>Figure:</b>
 </p>
 
 
