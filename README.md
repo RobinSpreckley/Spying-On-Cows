@@ -70,7 +70,7 @@ Creation of Dataset pipeline, Sklearn, Pytorch,
 <p align="center">
   <img src="assets/pipeline.JPG" alt="On-Orbit ML diagram" width="400"/>
   <br>
-  <b>Figure:</b> 
+  <b>Figure:</b> End-to-end ML pipeline including preprocessing (imputation, scaling, encoding), and MLPClassifier with grid search for F1-score optimization. The pipeline handles both numerical and categorical features via a ColumnTransformer.
 
  
 ## Project Structure
