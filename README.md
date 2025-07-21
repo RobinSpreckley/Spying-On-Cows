@@ -31,7 +31,7 @@ Modern dairy farms generate large volumes of behavioral and health data from ind
 - Deep Learning (ANN/DNN)
 - Oversampling (SMOTE)
 - Ensemble Learning / Bagging-inspired strategies
-- Explainable AI (LIME)
+- Explainable AI (LIME) for ANN/DNN
 - Data Cleaning, Aggregation & Wrangling
 - Tools: Python, Java, MySQL, Excel, Pandas, Scikit-learn, PyTorch
 
