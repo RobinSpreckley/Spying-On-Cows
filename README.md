@@ -37,6 +37,13 @@ Modern dairy farms generate large volumes of behavioral and health data from ind
 
 ##   Dataset Overview
 Data
+<p align="center">
+  <img src="assets/modelflow.JPG" alt="On-Orbit ML diagram" width="400"/>
+  <br>
+  <b>Figure:</b>
+</p>
+
+Datauploading process, with JAVA uploaders found in this directory 
 
 <p align="center">
   <img src="assets/simpleoutline.JPG" alt="On-Orbit ML diagram" width="400"/>
@@ -64,12 +71,6 @@ Creation of Dataset pipeline, Sklearn, Pytorch,
   <img src="assets/pipeline.JPG" alt="On-Orbit ML diagram" width="400"/>
   <br>
   <b>Figure:</b> 
-<p align="center">
-  <img src="assets/modelflow.JPG" alt="On-Orbit ML diagram" width="400"/>
-  <br>
-  <b>Figure:</b>
-</p>
-
 
  
 ## Project Structure
