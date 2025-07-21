@@ -4,11 +4,13 @@ The project also aims to make an effective machine learning predictive model fro
  
 This project implements databases, machine learning models, and Explainable artificial intelligence, to detect lameness effectively while showing how it classifies lameness. It looks at this problem from data of the individual cows and the herd data as a whole, to compare how these models predict lameness. It also sees how changes will affect both strategies.
 # Skills Used
+Deep learning, ANN/DNN. 
+A unique implementation inspired by bagging and hierchal modeling to develop an ml system that takes into the cow and herd data. 
+Oversampling
 Extensive use of Excel, Pandas, Java, MySQL, to data clean, aggregate
 Creation of dataset
 Exten
 Created explain ai with Lime, Pytorch, Sklearn
-Some excel command
 
 # Features
 (Put technolgoies used here - e.g. what type of database, what coding languages were used, what machine learning algorithms, etc.)
