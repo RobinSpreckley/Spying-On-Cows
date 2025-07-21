@@ -79,7 +79,7 @@ Creation of Dataset pipeline, Sklearn, Pytorch,
 ├── Python-ML/ # Pipeline code, model training, evaluation
 ├── SQL-Files/ # MySQL scripts for data aggregation
 ├── assets/ # Visual diagrams and screenshots
-├── uploaders/ # Data handling scripts
+├── uploaders/ # Take the data files, then implement
 ``` 
 
  
