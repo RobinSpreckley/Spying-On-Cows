@@ -28,22 +28,14 @@ Modern dairy farms generate large volumes of behavioral and health data from ind
 - Demonstrated potential for **stacked ensemble models** or **hierarchical modeling** to combine both perspectives
 - Identified novel predictive features and confirmed domain-specific ones (e.g., cow movement, water trough behavior)
 
-# Skills Used
-Deep learning, ANN/DNN. 
-A unique implementation inspired by bagging and hierchal modeling to develop an ml system that takes into the cow and herd data. 
-Oversampling
-Extensive use of Excel, Pandas, Java, MySQL, to data clean, aggregate
-Creation of dataset
-Exten
-Created explain ai with Lime, Pytorch, Sklearn
+## 🧠 Skills & Techniques
 
-# Features
-(Put technolgoies used here - e.g. what type of database, what coding languages were used, what machine learning algorithms, etc.)
-Database Systems (MySQL)
-Python and Java Data Cleaning, Wrangling Aggregating, pipeline
-Excel formatting
-XAI(Lime) 
-Artifiial Bagging inspired split strategy
+- Deep Learning (ANN/DNN)
+- Oversampling (SMOTE)
+- Ensemble Learning / Bagging-inspired strategies
+- Explainable AI (LIME)
+- Data Cleaning, Aggregation & Wrangling
+- Tools: Python, Java, MySQL, Excel, Pandas, Scikit-learn, PyTorch
 
 #   Spying On Cows Dataset
 Data
@@ -98,6 +90,6 @@ Creation of Dataset pipeline, Sklearn, Pytorch,
  
 ## Model Evaluation
 
-- Measured metrics include mAP50, Recall, and feature importance.
+- Measured metrics include Evaluation metrics Accuracy, Recall, Precission and feature importance from LIME.
 - Comparison between individual vs herd-based prediction strategies.
 - Visualised explanations with LIME to show model trust and reliability.
