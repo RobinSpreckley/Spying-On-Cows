@@ -9,7 +9,7 @@ Modern dairy farms generate large volumes of behavioral and health data from ind
 - Building two parallel ML pipelines: one using **individual cow models**, and the other using **herd-level aggregation**
 - Applying **oversampling**, **grid search**, **cross-validation**, and **XAI (LIME)** to explore model performance
 - Comparing the strengths and limitations of each approach from both herd and individual perspectives
-- 
+ 
 ## 🔍 What This Project Demonstrates
 
 - Development of a custom ML pipeline for predictive health monitoring.
@@ -85,6 +85,6 @@ Creation of Dataset pipeline, Sklearn, Pytorch,
  
 ## Model Evaluation
 
-- Measured metrics include Evaluation metrics Accuracy, Recall, Precission and feature importance from LIME.
+- Measured metrics include Evaluation metrics (Accuracy, Recall, precision,f1-score) and feature importance from LIME.
 - Comparison between individual vs herd-based prediction strategies.
 - Visualised explanations with LIME to show model trust and reliability.
