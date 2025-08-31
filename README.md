@@ -6,14 +6,12 @@ This project builds a machine learning pipeline to detect lameness in dairy cows
 
 Modern dairy farms generate large volumes of behavioral and health for cows. This project addresses the challenges of handling and interpreting this big data by:
 
-- Creating a robust, clean, and consistent dataset from heterogeneous real-world sensor logs
-- Creating new attributes from aggregations, min, max and std to find new KPI(key performacne indicators)
-- Building two parallel ML pipelines: one using **individual cow models**, and the other using **herd-level model**
-- Applying **oversampling**, **grid search**, **cross-validation**, and **XAI (LIME)** to explore model performance
-- Conducted Data Mining to continually improve feature seclection with visulisations
-- Comparing the strengths and limitations of each approach from both herd and individual perspectives.
-- Skills in MySQL, Python, Java, Pandas, PyTorch, Scikit-learn.
-
+- Creates a robust, clean, and consistent dataset from heterogeneous real-world sensor logs
+- Creates new attributes from aggregations, min, max and std to find new KPI(key performacne indicators)
+- Builds two parallel ML pipelines: one using **individual cow models**, and the other using **herd-level model**
+- Applies **oversampling**, **grid search**, **cross-validation**, and **XAI (LIME)** to explore model performance
+- Conducts Data Mining to continually improve feature seclection with visulisations
+- Compares the strengths and limitations of each approach from both herd and individual perspectives.
 
 ## Key Results
 
