@@ -26,15 +26,15 @@ Modern dairy farms generate large volumes of behavioral and health for cows. Thi
 - Ensemble Learning / Bagging-inspired strategies
 - Explainable AI (LIME) for ANN/DNN
 - Data Cleaning, Aggregation & Wrangling
-- Tools: Python, Java, MySQL, Excel, Pandas, Scikit-learn, PyTorch
+- Tools: Python, Java, MySQL, Excel(VBA),  Pandas, Scikit-learn, PyTorch
 
  
  
 ## Project Structure
 
 ```bash
-├── Python-ML/ # Pipeline code, model training, evaluation
-├── SQL-Files/ # MySQL scripts for data aggregation
+├── Python-ML/ # Pipeline code, pre-processing, model training, explanations evaluation
+├── SQL-Files/ # MySQL scripts for Cleaning, Aggregation, Joins & Integrations
 ├── assets/ # Visual diagrams and screenshots
-├── uploaders/ # Take the data files, then implement
+├── uploaders/ # MySQL conversion from Excel, and Data Cleaning
 ``` 
