@@ -35,7 +35,7 @@ Modern dairy farms generate large volumes of behavioral and health data from ind
 - Data Cleaning, Aggregation & Wrangling
 - Tools: Python, Java, MySQL, Excel, Pandas, Scikit-learn, PyTorch
 
-##   Dataset Overview
+##   Data Processing Overview
 Data
 <p align="center">
   <img src="assets/modelflow.JPG" alt="On-Orbit ML diagram" width="400"/>
