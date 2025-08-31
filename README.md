@@ -6,7 +6,7 @@ This project builds a machine learning pipeline to detect lameness in dairy cows
 Modern dairy farms generate large volumes of behavioral and health data from individual cows. This project addresses the challenges of handling and interpreting this big data by:
 
 - Creating a robust, clean, and consistent dataset from heterogeneous real-world sensor logs
-- Building two parallel ML pipelines: one using **individual cow models**, and the other using **herd-level aggregation**
+- Building two parallel ML pipelines: one using **individual cow models**, and the other using **herd-level model**
 - Applying **oversampling**, **grid search**, **cross-validation**, and **XAI (LIME)** to explore model performance
 - Comparing the strengths and limitations of each approach from both herd and individual perspectives
  
