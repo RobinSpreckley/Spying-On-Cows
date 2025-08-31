@@ -26,7 +26,7 @@ Modern dairy farms generate large volumes of behavioral and health data from ind
 - Demonstrated potential for **stacked ensemble models** or **hierarchical modeling** to combine both perspectives
 - Identified novel predictive features and confirmed domain-specific ones (e.g., cow movement, water trough behavior)
 
-## Skills & Techniques
+## Tools & Techniques
 
 - Deep Learning (ANN/DNN)
 - Oversampling (SMOTE)
