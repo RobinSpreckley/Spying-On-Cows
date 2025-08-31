@@ -35,43 +35,7 @@ Modern dairy farms generate large volumes of behavioral and health data from ind
 - Data Cleaning, Aggregation & Wrangling
 - Tools: Python, Java, MySQL, Excel, Pandas, Scikit-learn, PyTorch
 
-##   Data Processing Overview
-Data
-<p align="center">
-  <img src="assets/modelflow.JPG" alt="On-Orbit ML diagram" width="400"/>
-  <br>Figure: ML pipeline with preprocessing for numerical and categorical features, leading to a neural network classifier. Grid search used for F1-score optimization
-  <b>Figure:</b>
-</p>
-
-Datauploading process, with JAVA uploaders found in this directory 
-
-<p align="center">
-  <img src="assets/simpleoutline.JPG" alt="On-Orbit ML diagram" width="400"/>
-  <br>
-  <b>Figure:</b> Took in data from many sources of sensor recording and formatted to work in a consistent time frame for prediction  .
-</p> 
-
-<p align="center">
-  <img src="assets/aggregation and integration (2).png" alt="On-Orbit ML diagram" width="400"/>
-  <br>Figure: SQL-based weekly data aggregation and integration across all sources — joined on unique identifiers and time ranges
-  <b>Figure:</b> placeholder
-</p>
-
-## ML Pipeline
-
-<p align="center">
-  <img src="assets/splitdata.JPG" alt="On-Orbit ML diagram" width="400"/>
-  <br>Figure: Cow-level SMOTE oversampling — per-cow splits are oversampled and passed through individual grid search pipelines."what 
-  <b>Figure:</b> placeholder
-</p>
-
-Creation of Dataset pipeline, Sklearn, Pytorch, 
-
-<p align="center">
-  <img src="assets/pipeline.JPG" alt="On-Orbit ML diagram" width="400"/>
-  <br>
-  <b>Figure:</b> End-to-end ML pipeline including preprocessing (imputation, scaling, encoding), and MLPClassifier with grid search for F1-score optimization. The pipeline handles both numerical and categorical features via a ColumnTransformer.
-
+ 
  
 ## Project Structure
 
