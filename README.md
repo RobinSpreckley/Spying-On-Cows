@@ -81,10 +81,4 @@ Creation of Dataset pipeline, Sklearn, Pytorch,
 ├── assets/ # Visual diagrams and screenshots
 ├── uploaders/ # Take the data files, then implement
 ``` 
-
- 
-## Model Evaluation
-
-- Measured metrics include Evaluation metrics (Accuracy, Recall, Precision,F1-Score) and feature importance from LIME.
-- Comparison between individual vs herd-based prediction strategies.
 - Visualised explanations with LIME to show model trust and reliability.
