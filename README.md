@@ -1,11 +1,10 @@
 # Spying-On-Cows 🐄
 ## About
-This project builds a machine learning pipeline to detect lameness in dairy cows using both individual and herd-level behavioral and health sensor data. It explores how changes in the modeling strategy (individual vs. herd) affect performance and interpretability, using Explainable AI techniques.
+
+Modern dairy farms generate large volumes of behavioral and health for cows. This project explains and explores the current problems and solutions to using big data with ML and how it is being dealt with in the dairy industry.
 
 ## High-Level Overview
-
-Modern dairy farms generate large volumes of behavioral and health for cows. This project addresses the challenges of handling and interpreting this big data by:
-
+ 
 - Creates a robust, clean, and consistent dataset from heterogeneous real-world sensor logs
 - Creates new attributes from aggregations, min, max and std to find new KPI(key performacne indicators)
 - Builds two parallel ML pipelines: one using **individual cow models**, and the other using **herd-level model**
