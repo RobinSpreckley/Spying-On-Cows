@@ -24,7 +24,7 @@ Modern dairy farms generate large volumes of behavioral and health data from ind
 - **Oversampling improved** individual cow model performance but **degraded** herd model performance
 - LIME revealed **distinct feature importance** patterns across individual vs. herd models
 - Demonstrated potential for **stacked ensemble models** or **hierarchical modeling** to combine both perspectives
-- Identified novel predictive features and confirmed domain-specific ones (e.g., cow movement, water trough behavior)
+- Identified novel predictive features and confirmed domain-specific ones (e.g., cow movement, water trough behavior at certain times)
 
 ## Tools & Techniques
 
