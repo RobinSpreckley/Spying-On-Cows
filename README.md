@@ -81,4 +81,3 @@ Creation of Dataset pipeline, Sklearn, Pytorch,
 ├── assets/ # Visual diagrams and screenshots
 ├── uploaders/ # Take the data files, then implement
 ``` 
-- Visualised explanations with LIME to show model trust and reliability.
