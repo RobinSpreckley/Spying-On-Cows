@@ -11,7 +11,7 @@ Langhill records water-trough visits, milkings, weights, body condition and lact
 ## Pipeline
 
 <p align="center">
-  <img src="assets/aggregation and integration (2).png" alt="Aggregation and integration steps" width="700"/>
+  <img src="https://raw.githubusercontent.com/RobinSpreckley/Spying-On-Cows/main/assets/aggregation%20and%20integration%20(2).png" alt="Aggregation and integration steps" width="700"/>
 </p>
 
 1. **Clean and load.** Excel and Python regular expressions fix typos, hidden spaces, conflicting date formats and constant columns. Java uploaders (`uploaders/`) then load each file into its own MySQL table, with types and keys.
